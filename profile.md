@@ -1,1 +1,1 @@
-/images/create-new-file.png)
+/images/create-new-file.png
